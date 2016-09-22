@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-optimizely",
+  "name": "@astronomerio/analytics.js-integration-optimizely",
   "description": "The Optimizely analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
