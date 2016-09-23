@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-optimizely",
+  "name": "@astronomerio/analytics.js-integration-optimizely",
   "description": "The Optimizely analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-optimizely.git"
+    "url": "git+https://github.com/astronomer-integrations/analytics.js-integration-optimizely.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Astronomer <info@astronomer.io>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-optimizely/issues"
+    "url": "https://github.com/astronomer-integrations/analytics.js-integration-optimizely/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-optimizely#readme",
+  "homepage": "https://github.com/astronomer-integrations/analytics.js-integration-optimizely#readme",
   "dependencies": {
     "@ndhoule/foldl": "^2.0.1",
     "@segment/analytics.js-integration": "^2.1.0",
